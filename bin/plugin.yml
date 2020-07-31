@@ -1,0 +1,7 @@
+main: me.CrystalFruit.SpeedRunner.Main
+name: SpeedRunner
+version: 1.0
+author: CrystalFruit
+
+commands:
+  speed:
